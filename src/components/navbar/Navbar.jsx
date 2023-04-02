@@ -26,7 +26,7 @@ const Navbar = () => {
                     <div className = "navchild">Novels</div>
                     <div className = "navchild">Comics</div>
                     <div className = "navchild">Albums</div>
-                    <div className = "navchild">Sountracks</div>
+                    <div className = "navchild">Soundtracks</div>
                     <IconContext.Provider value={{ className: 'react-icons' , size: "23px", style: { verticalAlign: 'middle' }}}>
                         <div><IoSearchCircleSharp /></div>
                     </IconContext.Provider>
