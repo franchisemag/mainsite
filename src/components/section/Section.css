@@ -1,0 +1,9 @@
+.section-title-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#card-grid-seperator {
+    margin-bottom: 10px !important;
+}

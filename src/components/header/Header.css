@@ -1,0 +1,23 @@
+header {
+    transition: all 0.10s ease-in-out;
+    border: 1px solid var(--black);
+    height: 200px;
+    
+    padding: 5px;
+    
+    display: flex;
+    gap: 10px;
+}
+
+header:hover {
+    cursor: pointer;
+    background-color: var(--softgrey);
+    transition: all 0.10s ease-in;
+}
+
+#header-img {
+    width: 330px;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+}

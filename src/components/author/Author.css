@@ -1,0 +1,35 @@
+.author {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.author-profile-pic {
+    height: 30px;
+    width: auto;
+
+    border-radius: 100%;
+}
+
+.author-details {
+    display: flex;
+    align-items: center;
+    
+    gap: 5px;
+}
+
+.authorpic-encloser {
+    height: 30px;
+}
+
+.author-category {
+    border: 1px solid var(--black);
+    width: fit-content;
+    padding: 1px 5px;
+}
+
+.text-auth-seperator {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

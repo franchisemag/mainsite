@@ -1,0 +1,32 @@
+.card {
+    transition: all 0.10s ease-in-out;
+    border: 1px solid var(--black);
+    padding: 7px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    /* margin-top: 10px; */
+    
+    height: 300px;
+}
+
+.card:hover {
+    transition: all 0.10s ease-in;
+    cursor: pointer;
+    background-color: var(--softgrey);
+}
+
+.cardgrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+.card-child-image {
+    height: 130px;
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+}

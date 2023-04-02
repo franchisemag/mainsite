@@ -1,0 +1,8 @@
+.Discussions-Containter {
+    border: 1px solid var(--black);
+    padding: 7px 7px 0px 7px;
+}
+
+.Discussions-Containter > h2 {
+    text-align: center;
+}

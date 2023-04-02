@@ -1,0 +1,43 @@
+.Article-Section-Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Article-Section {
+    border: 1px solid var(--black);
+    padding: 10px;
+}
+
+.Article-Section-Main-Content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 30px;
+}
+
+.Article-Section-Main-Poster-DIV {
+    height: 260px;
+}
+
+.Article-Section-Main-Poster {
+    height: 260px;
+    width: 180px;
+
+    object-fit: cover;
+    object-position: top;
+
+    margin: 0px;
+    padding: 0px;
+}
+
+.Article-Trailer-Heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+video {
+    width: 678px;
+    margin: 10px 0px;
+}

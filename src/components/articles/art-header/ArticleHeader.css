@@ -1,0 +1,12 @@
+.ArticleHeading {
+    font-size: 18px;
+    text-align: center;
+}
+
+.Article-Header-Image {
+    text-align: center;
+    width: 700px;
+    height: 350px;
+    object-fit: cover;
+    object-position: center;
+}

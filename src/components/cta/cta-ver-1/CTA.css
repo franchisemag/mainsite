@@ -1,0 +1,56 @@
+.cta-box {
+    border: 1px solid var(--black);
+    padding: 7px;
+    margin: 0px;
+    
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.img-carousel {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    height: 184px;
+}
+
+.img-carousel > div {
+    width: 120px;
+    height: 100%;
+}
+
+.media-poster {
+    width: 120px;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+
+.CTAtext {
+    width: 280px;
+    line-height: 1.5;
+}
+
+.CTAtext > div > h2 {
+    margin: 0px;
+    text-align: center;
+}
+
+.CTAtext > div > p {
+    margin: 5px 0px;
+    text-align: center;
+}
+
+.CTAform {
+    text-align: center;
+    margin: 15px 0px;
+}
+
+.CTAlist {
+    margin: 0px 0px 0px 10px;
+}
+
+.CTAlist > li {
+    font-size: 8px;
+}

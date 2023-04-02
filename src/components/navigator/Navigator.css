@@ -1,0 +1,9 @@
+.navigator {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+
+    padding: 0px;
+    margin: 0px;
+}

@@ -1,0 +1,76 @@
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 20
+}
+
+.CTABox {
+    padding: 7px;
+
+    border: 1px solid var(--black)
+}
+
+.CTAheading {
+    margin: 0px;
+    text-align: center;
+}
+
+.CTAForm {
+    text-align: center;
+    margin: 20px 0px;
+}
+
+.CTAImgCarousel {
+    height: 180px;
+
+    margin: 20px 0px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.CTAImgCarousel > div {
+    width: 120px;
+    height: 100%;
+}
+
+.CTAImage {
+    width: 120px;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+
+.CTAFeatures {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.CTAFeatureBox {
+    height: 80px;
+    width: 120px;
+
+    background-color: var(--softgrey);
+    border-radius: 5px;
+
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 7px;
+    gap: 10px;
+}
+
+.CTAFeatureBox > div > p {
+    font-size: 8px;
+    width: 105px;
+}

@@ -1,0 +1,6 @@
+.advert {
+    margin-top: 10px;
+    border: 1px solid var(--black);
+    height: 150px;
+    text-align: center;
+}

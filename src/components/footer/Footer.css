@@ -1,0 +1,18 @@
+.footer-container {
+    padding: 5px 0px 30px 0px;
+}
+
+#footerlogo {
+    font-family: franchiseascendance;
+    font-weight: 400;
+    font-size: 25px;
+    
+    text-align: center;
+    margin: 12px 0px 8px 0px;
+}
+
+.footer-logos-flex {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}

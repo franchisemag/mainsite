@@ -1,0 +1,44 @@
+.Comment {
+    margin: 20px 0px;
+}
+
+.Comment-Field {
+    display: flex;
+    align-items: flex-start;
+    gap: 7px;
+}
+
+.Comment-Content {
+    border: 1px solid var(--darkgrey);
+    border-radius: 5px;
+    margin: 0px 0px 5px 0px;
+    padding: 10px;
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.Comment-Field-Header {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.Commentators-IMG {
+    height: 40px;
+    width: 40px;
+
+    border-radius: 100%;
+}
+
+.Comment-Actions {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Comment-Actions > div {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
