@@ -7,27 +7,27 @@ import { IconContext } from "react-icons"
 const VideoNavigator = () => {
   return (
     <div className="navigator">
-        <IconContext.Provider value={{ className: 'react-icons', size: "16px", style: { verticalAlign: 'middle' } }}>
+        <IconContext.Provider value={{ className: 'react-icons', size: "14px", style: { verticalAlign: 'middle' } }}>
             <div><BsArrowLeftCircle /></div>
         </IconContext.Provider>
 
-        <IconContext.Provider value={{ className: 'react-icons', size: "16px", style: { verticalAlign: 'middle' } }}>
+        <IconContext.Provider value={{ className: 'react-icons', size: "14px", style: { verticalAlign: 'middle' } }}>
             <div><BsCircleFill /></div>
         </IconContext.Provider>
 
-        <IconContext.Provider value={{ className: 'react-icons', size: "16px", style: { verticalAlign: 'middle' } }}>
+        <IconContext.Provider value={{ className: 'react-icons', size: "14px", style: { verticalAlign: 'middle' } }}>
             <div><BsCircle /></div>
         </IconContext.Provider>
 
-        <IconContext.Provider value={{ className: 'react-icons', size: "16px", style: { verticalAlign: 'middle' } }}>
+        <IconContext.Provider value={{ className: 'react-icons', size: "14px", style: { verticalAlign: 'middle' } }}>
             <div><BsCircle /></div>
         </IconContext.Provider>
         
-        <IconContext.Provider value={{ className: 'react-icons', size: "16px", style: { verticalAlign: 'middle' } }}>
+        <IconContext.Provider value={{ className: 'react-icons', size: "14px", style: { verticalAlign: 'middle' } }}>
             <div><BsCircle /></div>
         </IconContext.Provider>
 
-        <IconContext.Provider value={{ className: 'react-icons', size: "16px", style: { verticalAlign: 'middle' } }}>
+        <IconContext.Provider value={{ className: 'react-icons', size: "14px", style: { verticalAlign: 'middle' } }}>
             <div><BsArrowRightCircle /></div>
         </IconContext.Provider>
     </div>

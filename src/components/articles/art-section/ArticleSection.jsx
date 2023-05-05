@@ -103,7 +103,7 @@ const ArticleSection = () => {
 
             <div>
                 <div>
-                    <h1>1. Star Wars Episode IV: A New Hope</h1>
+                    <h2>1. Star Wars Episode IV: A New Hope</h2>
                 </div>
                 
                 <video controls = "controls" preload="metadata">
