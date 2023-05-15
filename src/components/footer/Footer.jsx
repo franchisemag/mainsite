@@ -17,13 +17,13 @@ const Footer = () => {
             <div><BsGlobe /></div>
           </IconContext.Provider>
           
-          <div className = "navchild"><Link to = "/Movies">About</Link></div>
-          <div className = "navchild"><Link to = "/Movies">Policies</Link></div>
-          <div className = "navchild"><Link to = "/Movies">Masthead</Link></div>
-          <div className = "navchild"><Link to = "/Movies">Sitemap</Link></div>
-          <div className = "navchild"><Link to = "/Movies">Press Room</Link></div>
-          <div className = "navchild"><Link to = "/Movies">Monitor</Link></div>
-          <div className = "navchild"><Link to = "/Movies">Contact</Link></div>
+          <Link to = "/Movies"><div className = "navchild">About</div></Link>
+          <Link to = "/Movies"><div className = "navchild">Policies</div></Link>
+          <Link to = "/Movies"><div className = "navchild">Masthead</div></Link>
+          <Link to = "/Movies"><div className = "navchild">Sitemap</div></Link>
+          <Link to = "/Movies"><div className = "navchild">Press Room</div></Link>
+          <Link to = "/Movies"><div className = "navchild">Monitor</div></Link>
+          <Link to = "/Movies"><div className = "navchild">Contact</div></Link>
           
           
           <IconContext.Provider value={{ className: 'react-icons' , size: "15px", style: { verticalAlign: 'middle' }}}>

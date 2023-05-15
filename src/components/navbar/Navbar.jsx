@@ -20,8 +20,8 @@ const Navbar = () => {
                     <IconContext.Provider value={{ className: 'react-icons' , size: "18px", style: { verticalAlign: 'middle' }}}>
                         <div><FaUserCircle /></div>
                     </IconContext.Provider>
-                    <div className = "navchild"><Link to = "/Movies">Movies</Link></div>
-                    <div className = "navchild"><Link to = "/TV-Shows">TV Shows</Link></div>
+                    <Link to = "/Movies"><div className = "navchild">Movies</div></Link>
+                    <Link to = "/TV-Shows"><div className = "navchild">TV Shows</div></Link>
                     <div className = "navchild">Anime</div>
                     <div className = "navchild">Novels</div>
                     <div className = "navchild">Comics</div>
