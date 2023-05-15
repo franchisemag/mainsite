@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/mainsite/static/css/main.c5f9fd87.css",
+    "main.js": "/mainsite/static/js/main.03942fa4.js",
+    "static/media/Star Wars Episode IV_ A New Hope - Trailer.mp4": "/mainsite/static/media/Star Wars Episode IV_ A New Hope - Trailer.edf644b6651fd08742e3.mp4",
+    "static/media/TheFlashOfTwoWorlds.jpeg": "/mainsite/static/media/TheFlashOfTwoWorlds.6bf77f406bcf0fb76a7e.jpeg",
+    "static/media/LOTR.png": "/mainsite/static/media/LOTR.9e2fa4566643ad0c12f5.png",
+    "static/media/Marvel.jpeg": "/mainsite/static/media/Marvel.981bb9c94a595af68520.jpeg",
+    "static/media/BreakingBad.jpeg": "/mainsite/static/media/BreakingBad.4ede5e6f94909be8ccd3.jpeg",
+    "static/media/IndianaJones.jpg": "/mainsite/static/media/IndianaJones.b7c60e32830cb077a855.jpg",
+    "static/media/TheWalkingDead.jpeg": "/mainsite/static/media/TheWalkingDead.d3d3583d5876c6bfa6a8.jpeg",
+    "static/media/theHungerGames.jpeg": "/mainsite/static/media/theHungerGames.cbd5a9f7313e137672d4.jpeg",
+    "static/media/sairohit.png": "/mainsite/static/media/sairohit.90f38006e9cf10b66905.png",
+    "static/media/StarWars.jpeg": "/mainsite/static/media/StarWars.50268e56b7fcb867b5eb.jpeg",
+    "static/media/StarWars-1.jpeg": "/mainsite/static/media/StarWars-1.beec9c9f275562e1bfbc.jpeg",
+    "static/media/HarryPotter.png": "/mainsite/static/media/HarryPotter.90b01fd5d87adf910ca3.png",
+    "static/media/007.jpeg": "/mainsite/static/media/007.73cd8f8efe3c1afdd870.jpeg",
+    "static/media/Transformers.png": "/mainsite/static/media/Transformers.09ba4145fd6cf6f35fef.png",
+    "static/media/TheGodfather.jpeg": "/mainsite/static/media/TheGodfather.3b69a4c01d3e572d1b8a.jpeg",
+    "static/media/GameofThrones.jpeg": "/mainsite/static/media/GameofThrones.d11e74a4cf7c6f160b6c.jpeg",
+    "static/media/Transporter.jpeg": "/mainsite/static/media/Transporter.63387cbff88e99cb9a1d.jpeg",
+    "static/media/theCatcherintheRye.jpeg": "/mainsite/static/media/theCatcherintheRye.11e12b8f4692176cae20.jpeg",
+    "static/media/GreysAnatomy.jpeg": "/mainsite/static/media/GreysAnatomy.45f957fb816f3c2e3946.jpeg",
+    "static/media/theSopranos.jpeg": "/mainsite/static/media/theSopranos.edf145bacb0e221ea2d3.jpeg",
+    "static/media/strengthen.ttf": "/mainsite/static/media/strengthen.7af9caf4de632d43e382.ttf",
+    "index.html": "/mainsite/index.html",
+    "main.c5f9fd87.css.map": "/mainsite/static/css/main.c5f9fd87.css.map",
+    "main.03942fa4.js.map": "/mainsite/static/js/main.03942fa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5f9fd87.css",
+    "static/js/main.03942fa4.js"
+  ]
+}
