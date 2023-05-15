@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mainsite/static/css/main.c5f9fd87.css",
-    "main.js": "/mainsite/static/js/main.03942fa4.js",
+    "main.js": "/mainsite/static/js/main.b27a4570.js",
     "static/media/Star Wars Episode IV_ A New Hope - Trailer.mp4": "/mainsite/static/media/Star Wars Episode IV_ A New Hope - Trailer.edf644b6651fd08742e3.mp4",
     "static/media/TheFlashOfTwoWorlds.jpeg": "/mainsite/static/media/TheFlashOfTwoWorlds.6bf77f406bcf0fb76a7e.jpeg",
     "static/media/LOTR.png": "/mainsite/static/media/LOTR.9e2fa4566643ad0c12f5.png",
@@ -25,10 +25,10 @@
     "static/media/strengthen.ttf": "/mainsite/static/media/strengthen.7af9caf4de632d43e382.ttf",
     "index.html": "/mainsite/index.html",
     "main.c5f9fd87.css.map": "/mainsite/static/css/main.c5f9fd87.css.map",
-    "main.03942fa4.js.map": "/mainsite/static/js/main.03942fa4.js.map"
+    "main.b27a4570.js.map": "/mainsite/static/js/main.b27a4570.js.map"
   },
   "entrypoints": [
     "static/css/main.c5f9fd87.css",
-    "static/js/main.03942fa4.js"
+    "static/js/main.b27a4570.js"
   ]
 }
