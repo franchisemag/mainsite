@@ -6,6 +6,7 @@
     --darkgrey: #484848;
 
     --franchisered: #EA4335;
+    --franchisesoftred: #EF9A9A;
 }
 
 @font-face {
@@ -38,7 +39,7 @@ img {
 
 .subbody {
     margin: auto;
-    width: 850px;
+    width: 900px;
 }
 
 .react-icons {
@@ -79,13 +80,15 @@ p {
 ol, ul {
     font-size: 12px;
     line-height: 1.5;
-    margin: 10px 10px 10px 18px;
+    margin: 10px 10px 10px 23px;
     padding: 0px;
 }
 
 li {
     font-size: 12px;
     line-height: 1.5;
+    list-style-type: decimal-leading-zero;
+    padding-left: 5px;
 }
 
 h6 {
@@ -134,7 +137,12 @@ hr {
 }
 
 .navlinks {
-    padding: 10px 0px;
+    padding: 8px 0px;
+}
+
+.bg {
+    background-color: var(--franchisered);
+    color: var(--white);
 }
 
 #logo {
@@ -143,7 +151,7 @@ hr {
     font-size: 40px;
     
     text-align: center;
-    margin: 12px 0px 8px 0px;
+    margin: 18px 0px 12px 0px;
 }
 
 .navchild {
@@ -151,14 +159,15 @@ hr {
     font-family: 'IBM Plex Mono', monospace;
     font-size: 12px;
     font-weight: 700;
-    padding: 5px 10px;
+    padding: 8px 10px;
 }
 
 .navchild:hover {
-    background-color: var(--softgrey);
+    background-color: var(--franchisesoftred);
     cursor: pointer;
     border-radius: 5px;
     transition: all 0.10s ease-in;
+    color: var(--black);
 }
 
 input[type = text] {

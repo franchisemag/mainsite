@@ -11,11 +11,12 @@ const Navbar = () => {
         <div>
             <nav>
                 <div className="subbody">
-                    <Link to = "/">
+                    <Link to = "/mainsite">
                         <div id = "logo">FRANCHISE</div>
                     </Link>
                 </div>
                 <hr/>
+                <div className = "bg">
                 <div className="classicflex subbody navlinks">
                     <IconContext.Provider value={{ className: 'react-icons' , size: "18px", style: { verticalAlign: 'middle' }}}>
                         <div><FaUserCircle /></div>
@@ -30,6 +31,7 @@ const Navbar = () => {
                     <IconContext.Provider value={{ className: 'react-icons' , size: "23px", style: { verticalAlign: 'middle' }}}>
                         <div><IoSearchCircleSharp /></div>
                     </IconContext.Provider>
+                </div>
                 </div>
                 <hr/>
             </nav>

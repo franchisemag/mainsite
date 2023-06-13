@@ -6,12 +6,10 @@ import marvel from "../../assets/media/images/movies/Marvel.jpeg"
 
 import Navigator from '../navigator/Navigator'
 import Author from '../author/Author'
-import PageTitle from '../pagetitle/PageTitle'
 
 const Header = () => {
     return (
         <div>
-            <PageTitle />
             <div className="subbody">
                 <Link>
                     <header>

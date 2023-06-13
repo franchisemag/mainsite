@@ -1,6 +1,7 @@
 import React from 'react'
 
 import Navbar from "../../components/navbar/Navbar"
+import PageTitle from "../../components/pagetitle/PageTitle"
 import Header from "../../components/header/Header";
 import Advert from "../../components/advert/Advert"
 import CTA from '../../components/cta/cta-ver-1-1/CTA';
@@ -20,6 +21,9 @@ const Home = () => {
   return (
     <div>
         <Navbar/>
+
+        <PageTitle name = {"Home"}/>
+
         <Header/>
 
         <span className = "space"/>

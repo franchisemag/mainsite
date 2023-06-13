@@ -1,11 +1,11 @@
 import React from 'react'
 import "./PageTitle.css"
 
-const PageTitle = () => {
+const PageTitle = (props) => {
   return (
     <div className='subbody'>
         <center>
-            <div id = "text">Home</div>
+            <div id = "text">{props.name}</div>
         </center>
     </div>
   )

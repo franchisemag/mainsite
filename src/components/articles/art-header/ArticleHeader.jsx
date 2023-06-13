@@ -3,16 +3,14 @@ import React from "react"
 import "./ArticleHeader.css"
 
 import StarWars from "../../../assets/media/images/movies/StarWars.jpeg"
+import PageTitle from "../../pagetitle/PageTitle"
 
 const ArticleHeader = () => {
     return(
         <div className="subbody">
 
-            <h1 className="ArticleHeading">
-                the Star Wars Universe
-            </h1>
+            <PageTitle name = {"Star Wars Franchise"}/>
 
-            <span className="space"/>
 
             <img src={StarWars} alt = "StarWars" className="Article-Header-Image"></img>
 

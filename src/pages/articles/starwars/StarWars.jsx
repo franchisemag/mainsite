@@ -12,7 +12,6 @@ const StarWars = () => {
   return (
     <div>
         <Navbar/>
-        <span className='space'></span>
         <ArticleHeader/>
         <span className='space'></span>
         <ArticleSection/>

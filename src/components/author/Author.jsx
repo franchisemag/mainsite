@@ -10,7 +10,7 @@ const Author = () => {
             <div className = "authorpic-encloser">
                 <img src = {sairohit} className = "author-profile-pic" alt = "profile"></img>
             </div>
-            <div>
+            <div className="authortext-date">
                 <div><h6><b>Sai Rohit</b></h6></div>
                 <div><h6>15/01/2023</h6></div>
             </div>

@@ -16,13 +16,9 @@
     gap: 30px;
 }
 
-.Article-Section-Main-Poster-DIV {
-    height: 260px;
-}
-
 .Article-Section-Main-Poster {
-    height: 260px;
-    width: 180px;
+    
+    width: 200px;
 
     object-fit: cover;
     object-position: top;
@@ -38,6 +34,6 @@
 }
 
 video {
-    width: 828px;
+    width: 100%;
     margin: 10px 0px;
 }

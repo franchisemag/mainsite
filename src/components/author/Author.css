@@ -8,19 +8,21 @@
     height: 30px;
     width: auto;
 
+    border: 1px solid var(--black);
     border-radius: 100%;
 }
 
 .author-details {
     display: flex;
+    justify-content: flex-start;
     align-items: center;
     
     gap: 5px;
 }
-
+/* 
 .authorpic-encloser {
     height: 30px;
-}
+} */
 
 .author-category {
     border: 1px solid var(--black);
@@ -32,4 +34,11 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+}
+
+.authortext-date {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 5px;
 }

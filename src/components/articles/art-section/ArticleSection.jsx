@@ -1,6 +1,6 @@
 import React from 'react'
 
-import"./ArticleSection.css"
+import "./ArticleSection.css"
 
 import AdvertPoster from "../../advertposter/AdvertPoster"
 import VideoNavigator from "../../videoNavigator/VideoNavigator"
@@ -20,7 +20,7 @@ const ArticleSection = () => {
                     <h1>Theatrical Release Order</h1>
                 </div>
                 <div>
-                    <Navigator/>              
+                    <Navigator/>
                 </div>                
 
             </div>
@@ -40,15 +40,30 @@ const ArticleSection = () => {
                     <br/>
                     
                     If you're doing a re-watch and are interested in preserving the storyline of the core movies, just skip these two films. They have no impact on the overarching narrative, anyway. First-timers who want the full experience can certainly watch them in release order, or place the standalone films before or after the sequel trilogy. 
-                    
+
                     <br/>
                     <br/>
 
-                    If you want to go by release order, your marathon should look like this:
-
-                    <br/>
+                    Another option is to incorporate the standalone Star Wars films into your watch party by placing them before or after the sequel trilogy. This way, you can maintain the chronological flow of the main storyline while enjoying additional adventures in the Star Wars universe. Either way, these standalone films offer unique perspectives and expand upon the rich tapestry of the Star Wars saga.
                     </p>
+                </div>
+                
+                
+                <div>
+                    <img src = {StarWarsPoster} alt = "StarWars Poster" className="Article-Section-Main-Poster"></img>
+                </div>
+                
 
+            </div>
+
+            <span className="smallerspace"></span>
+
+            <hr/>
+
+            <span className="smallerspace"></span>
+
+            <div>
+                <p>If you want to go by release order, your marathon should look like this:</p>
                     <ol>
                         <li>Star Wars Episode IV: A New Hope</li>
 
@@ -72,19 +87,9 @@ const ArticleSection = () => {
 
                         <li>Star Wars Episode IX: The Rise of Skywalker</li>
                     </ol>
-                </div>
-                
-                <div>
-                    <div className="Article-Section-Main-Poster-DIV">
-                        <img src = {StarWarsPoster} alt = "StarWars Poster" className="Article-Section-Main-Poster"></img>
-                    </div>
-                    <span className="quitethesmallspace"></span>
-                    <div>
-                        <AdvertPoster/>
-                    </div>
-                </div>
-
             </div>
+
+            
 
             <span className="smallerspace"></span>
 

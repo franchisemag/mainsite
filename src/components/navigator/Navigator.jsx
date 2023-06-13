@@ -8,29 +8,29 @@ import { IconContext } from "react-icons"
 const Navigator = () => {
   return (
     <div className="navigator">
-        <IconContext.Provider value={{ className: 'react-icons', size: "12px", style: { verticalAlign: 'middle' } }}>
+        {/* <IconContext.Provider value={{ className: 'react-icons', size: "12px", style: { verticalAlign: 'middle' } }}>
             <div><BsArrowLeftCircle /></div>
-        </IconContext.Provider>
+        </IconContext.Provider> */}
 
-        <IconContext.Provider value={{ className: 'react-icons', size: "12px", style: { verticalAlign: 'middle' } }}>
+        <IconContext.Provider value={{ className: 'react-icons', size: "8px", style: { verticalAlign: 'middle' } }}>
             <div><BsCircleFill /></div>
         </IconContext.Provider>
 
-        <IconContext.Provider value={{ className: 'react-icons', size: "12px", style: { verticalAlign: 'middle' } }}>
+        <IconContext.Provider value={{ className: 'react-icons', size: "8px", style: { verticalAlign: 'middle' } }}>
             <div><BsCircle /></div>
         </IconContext.Provider>
 
-        <IconContext.Provider value={{ className: 'react-icons', size: "12px", style: { verticalAlign: 'middle' } }}>
+        <IconContext.Provider value={{ className: 'react-icons', size: "8px", style: { verticalAlign: 'middle' } }}>
             <div><BsCircle /></div>
         </IconContext.Provider>
         
-        <IconContext.Provider value={{ className: 'react-icons', size: "12px", style: { verticalAlign: 'middle' } }}>
+        <IconContext.Provider value={{ className: 'react-icons', size: "8px", style: { verticalAlign: 'middle' } }}>
             <div><BsCircle /></div>
         </IconContext.Provider>
 
-        <IconContext.Provider value={{ className: 'react-icons', size: "12px", style: { verticalAlign: 'middle' } }}>
+        {/* <IconContext.Provider value={{ className: 'react-icons', size: "12px", style: { verticalAlign: 'middle' } }}>
             <div><BsArrowRightCircle /></div>
-        </IconContext.Provider>
+        </IconContext.Provider> */}
     </div>
   )
 }

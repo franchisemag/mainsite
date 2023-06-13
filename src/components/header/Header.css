@@ -6,6 +6,8 @@ header {
     
     display: flex;
     gap: 10px;
+
+    margin: 0px 0px 10px 0px;
 }
 
 header:hover {
@@ -16,7 +18,7 @@ header:hover {
 
 #header-img {
     height: 100%;
-    width: 400px;
+    width: 425px;
     object-fit: cover;
     object-position: top;
 }

@@ -8,7 +8,7 @@
     justify-content: space-between;
 
     /* margin-top: 10px; */
-    height: 330px;
+    height: 400px;
 }
 
 .card:hover {
@@ -24,7 +24,7 @@
 }
 
 .card-child-image {
-    height: 130px;
+    height: 180px;
     width: 100%;
     object-fit: cover;
     object-position: top;

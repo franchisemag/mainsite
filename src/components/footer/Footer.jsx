@@ -12,6 +12,7 @@ const Footer = () => {
   return (
     <div>
       <hr/>
+      <div className="bg">
         <div className='classicflex subbody navlinks'>
           <IconContext.Provider value={{ className: 'react-icons' , size: "15px", style: { verticalAlign: 'middle' }}}>
             <div><BsGlobe /></div>
@@ -30,20 +31,21 @@ const Footer = () => {
             <div><BsCircleHalf /></div>
           </IconContext.Provider>
         </div>
+      </div>
       <hr/>
       
       <div className='subbody classicflex footer-container'>
         <div className='footer-logos-flex'>
           
-          <IconContext.Provider value={{ className: 'react-icons' , size: "16px", style: { verticalAlign: 'middle' }}}>
+          <IconContext.Provider value={{ className: 'react-icons' , size: "17px", style: { verticalAlign: 'middle' }}}>
             <div><SiInstagram /></div>
           </IconContext.Provider>
 
-          <IconContext.Provider value={{ className: 'react-icons' , size: "17px", style: { verticalAlign: 'middle' }}}>
+          <IconContext.Provider value={{ className: 'react-icons' , size: "19px", style: { verticalAlign: 'middle' }}}>
             <div><FaTwitterSquare /></div>
           </IconContext.Provider>
 
-          <IconContext.Provider value={{ className: 'react-icons' , size: "16px", style: { verticalAlign: 'middle' }}}>
+          <IconContext.Provider value={{ className: 'react-icons' , size: "17px", style: { verticalAlign: 'middle' }}}>
             <div><SiLinkedin /></div>
           </IconContext.Provider>
 
@@ -65,15 +67,15 @@ const Footer = () => {
         
         <div className='footer-logos-flex'>
           
-          <IconContext.Provider value={{ className: 'react-icons' , size: "16px", style: { verticalAlign: 'middle' }}}>
+          <IconContext.Provider value={{ className: 'react-icons' , size: "18px", style: { verticalAlign: 'middle' }}}>
             <div><SiBuymeacoffee /></div>
           </IconContext.Provider>
 
-          <IconContext.Provider value={{ className: 'react-icons' , size: "16px", style: { verticalAlign: 'middle' }}}>
+          <IconContext.Provider value={{ className: 'react-icons' , size: "17px", style: { verticalAlign: 'middle' }}}>
             <div><SiPaypal /></div>
           </IconContext.Provider>
 
-          <IconContext.Provider value={{ className: 'react-icons' , size: "16px", style: { verticalAlign: 'middle' }}}>
+          <IconContext.Provider value={{ className: 'react-icons' , size: "17px", style: { verticalAlign: 'middle' }}}>
             <div><SiPatreon /></div>
           </IconContext.Provider>
 
