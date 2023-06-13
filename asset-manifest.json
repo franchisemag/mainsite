@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mainsite/static/css/main.c5f9fd87.css",
-    "main.js": "/mainsite/static/js/main.b27a4570.js",
+    "main.css": "/mainsite/static/css/main.fc6b1e9a.css",
+    "main.js": "/mainsite/static/js/main.42e325c3.js",
     "static/media/Star Wars Episode IV_ A New Hope - Trailer.mp4": "/mainsite/static/media/Star Wars Episode IV_ A New Hope - Trailer.edf644b6651fd08742e3.mp4",
     "static/media/TheFlashOfTwoWorlds.jpeg": "/mainsite/static/media/TheFlashOfTwoWorlds.6bf77f406bcf0fb76a7e.jpeg",
     "static/media/LOTR.png": "/mainsite/static/media/LOTR.9e2fa4566643ad0c12f5.png",
@@ -17,18 +17,18 @@
     "static/media/007.jpeg": "/mainsite/static/media/007.73cd8f8efe3c1afdd870.jpeg",
     "static/media/Transformers.png": "/mainsite/static/media/Transformers.09ba4145fd6cf6f35fef.png",
     "static/media/TheGodfather.jpeg": "/mainsite/static/media/TheGodfather.3b69a4c01d3e572d1b8a.jpeg",
+    "static/media/GreysAnatomy.jpeg": "/mainsite/static/media/GreysAnatomy.926906133a2f3357f7d1.jpeg",
     "static/media/GameofThrones.jpeg": "/mainsite/static/media/GameofThrones.d11e74a4cf7c6f160b6c.jpeg",
     "static/media/Transporter.jpeg": "/mainsite/static/media/Transporter.63387cbff88e99cb9a1d.jpeg",
     "static/media/theCatcherintheRye.jpeg": "/mainsite/static/media/theCatcherintheRye.11e12b8f4692176cae20.jpeg",
-    "static/media/GreysAnatomy.jpeg": "/mainsite/static/media/GreysAnatomy.45f957fb816f3c2e3946.jpeg",
     "static/media/theSopranos.jpeg": "/mainsite/static/media/theSopranos.edf145bacb0e221ea2d3.jpeg",
     "static/media/strengthen.ttf": "/mainsite/static/media/strengthen.7af9caf4de632d43e382.ttf",
     "index.html": "/mainsite/index.html",
-    "main.c5f9fd87.css.map": "/mainsite/static/css/main.c5f9fd87.css.map",
-    "main.b27a4570.js.map": "/mainsite/static/js/main.b27a4570.js.map"
+    "main.fc6b1e9a.css.map": "/mainsite/static/css/main.fc6b1e9a.css.map",
+    "main.42e325c3.js.map": "/mainsite/static/js/main.42e325c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5f9fd87.css",
-    "static/js/main.b27a4570.js"
+    "static/css/main.fc6b1e9a.css",
+    "static/js/main.42e325c3.js"
   ]
 }
